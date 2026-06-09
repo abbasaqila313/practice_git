@@ -38,3 +38,10 @@ ls
    38  git status
    39  git add git_commands.txt
    40  git commit -m "adding txt file
+   41 hello
+   42 kya
+   43 haal
+   44 hai
+   45 sab
+   46 theek
+   47 hai
