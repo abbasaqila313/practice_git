@@ -1,0 +1,35 @@
+    1  ls
+    2  ls -l
+    3  rm testing.py
+    4  git init
+    5  git init
+    6  ls -a
+    7  git status
+    8  git status
+    9  git add testing.py
+   10  git status
+   11  git rm --cached
+   12  git rm --cached testing.py
+   13  git status
+   14  git add testing.py
+   15  git status
+   16  git commit -m "adding testing file"
+   17  git commit -m "adding testing file"
+   18  git status
+   19  rm testing .py
+   20  rm testing.py
+   21  git status
+   22  git restore testing.py
+   23  git status
+   24  git status
+   25  git add git_commands.txt
+   26  git status
+   27  git commit -m "adding text file"
+   28  git status
+   29  git remote add origin https://github.com/abbasaqila313/practice_git.git
+   30  git status
+   31  git remote -v
+   32  git push origin master
+   33  git remote set-url origin https://github.com/abbasaqila313/practice_git.git
+   34  git remote -v
+   35  git push origin master
